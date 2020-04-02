@@ -17,7 +17,7 @@
 
 <div class="row">
 <div class="col-md-5">
-<img alt="thumb" src="#" style="width: 100%;height: 300px;">
+<img alt="thumb" src="#" style="width: 100%;height: 300px;">ment
 
 </div>
 
@@ -29,7 +29,7 @@
 <p>Condition:${product.productCandition}</p>
 <p>Price(Rs):${product.produtPrice}</p>
 <p></p>
-</div>
+</div> 
 </div>
 </div>
 
